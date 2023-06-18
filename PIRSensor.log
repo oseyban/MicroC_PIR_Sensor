@@ -1,0 +1,13 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\PIRSensor.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" "PIRSensor.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl"	 
+diagnostics: 0	122	Compilation Started	STM32F407VG.c
+diagnostics: 58985	123	Compiled Successfully	STM32F407VG.c
+diagnostics: 0	122	Compilation Started	PIRSensor.c
+diagnostics: 3	123	Compiled Successfully	PIRSensor.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RX: 12 (75%)   Free RX: 4 (25%)	Used RX: 12 (75%)   Free RX: 4 (25%)
+hint: 0	1144	Static RAM (bytes): 8   Dynamic RAM (bytes): 131061	Static RAM (bytes): 8   Dynamic RAM (bytes): 131061
+hint: 0	1144	Used ROM (bytes): 1546 (0%)  Free ROM (bytes): 1047030 (100%)	Used ROM (bytes): 1546 (0%)  Free ROM (bytes): 1047030 (100%)
+diagnostics: 0	125	Project Linked Successfully	PIRSensor.mcpar
+diagnostics: 0	128	Linked in 266 ms	 
+diagnostics: 0	129	Project 'PIRSensor.mcpar' completed: 1141 ms	 
+diagnostics: 0	103	Finished successfully: 03 Nis 2023, 12:52:25	PIRSensor.mcpar
